@@ -169,9 +169,10 @@ export function DarkPortfolio() {
               })}
             </ul>
             <a
-              href="/CV/CV.pdf"
+              href="/CV/cv.pdf"
               target="_blank"
               rel="noreferrer"
+              aria-label="Open CV PDF"
               className="contact-social-link inline-flex items-center gap-1.5 text-sm text-mist-dim"
             >
               <FileText size={19} aria-hidden="true" />
